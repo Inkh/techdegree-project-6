@@ -1,3 +1,5 @@
+'use strict';
+
 const phrases = [
     {phrase: 'what is on your mind', winSubtitle: "What's on your mind was what's on your mind!", loseSubtitle: "What's on your mind was not what's on your mind :("}, 
     {phrase: 'you are a murloc', winSubtitle: "\"MmmRRRRRRGGL\"", loseTitle: "\"MmmRRRRRRGGL?\""}, 
